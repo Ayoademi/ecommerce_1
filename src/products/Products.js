@@ -23,5 +23,11 @@ export const products = [
         price: '$19.99',
         image: require('../../assets/images/watch-1.png'),
       },
+      {
+        id: 5,
+        name: 'Gade',
+        price: '$99.99',
+        image: require('../../assets/images/watch-1.png'),
+      },
     // Add more products as needed
   ];
